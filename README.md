@@ -1,10 +1,7 @@
-# Demo
+Git Basics Tutorial
 
+Reason for this tutorial was to revisit Git basics and to prepare to dwelve further into Git and try using Git little bit more profesionally. 
 
-## subheader
+Also, I kinda messed up repository on other project which is reason why I decided to revisit basics and prepare myself for intermediate tutorial on git.
 
-
-## Local Development
-
-1. Open index.html in your browser
-2. Have fun
+Onwards to next project!
